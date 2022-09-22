@@ -8,3 +8,4 @@ var MyClass = /** @class */ (function () {
 }());
 var classDemo = new MyClass();
 classDemo.showName('admin', 'aa@mm.com');
+
